@@ -6,6 +6,8 @@ Ho creato Simple PDF Sign perché mi serviva uno strumento essenziale: aprire un
 
 **Niente account. Niente registrazioni. Niente upload dei file.**
 
+[Prova Versione Online](https://emaf205.com/ideas/simple-pdf-sign/)
+
 ## Come funziona
 
 1. Trascina il PDF
@@ -33,4 +35,4 @@ I documenti restano nel browser e non vengono caricati dall’app su server este
 
 ---
 
-Made with ♥ in Milan by [Emanuele BDC](mailto:emagumroad@gmail.com)
+Made with ♥ in Milan by [Emanuele BDC](https://www.linkedin.com/in/emanuelebdc/)
