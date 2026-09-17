@@ -6,12 +6,9 @@ Ho creato **Simple PDF Sign** perché mi serviva una soluzione semplice per una 
 
 Senza registrazioni. Senza account. Senza caricare i documenti online. Senza interfacce inutilmente complicate.
 
-![Simple PDF Sign](screenshot.png)
-
 ## Video demo
 
-[![Guarda Simple PDF Sign in azione](https://img.youtube.com/vi/_kEl7B9Udy4/maxresdefault.jpg)](https://youtu.be/_kEl7B9Udy4)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_kEl7B9Udy4?si=GUqRGyFUBuTLNIU1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Funzioni
 
 - Drag & drop del PDF
